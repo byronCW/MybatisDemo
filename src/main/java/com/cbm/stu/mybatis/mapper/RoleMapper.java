@@ -20,4 +20,8 @@ import com.cbm.stu.mybatis.entity.Role;
 public interface RoleMapper {
 
 	public Role getRole(Long id);
+	
+	public int insertRole(Role role);
+	
+	public int deleteRole(Long id);
 }

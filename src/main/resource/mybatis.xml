@@ -6,7 +6,6 @@
 	<typeAliases>
 		<typeAlias alias="role" type="com.cbm.stu.mybatis.entity.Role" />
 	</typeAliases>
-
 	<environments default="development">
 		<environment id="development">
 			<transactionManager type="JDBC" />
