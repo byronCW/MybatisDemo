@@ -20,7 +20,7 @@ import com.cbm.stu.mybatis.util.SqlSessionFactoryUtil;
 
 /**
  * @ClassName: TestFirst
- * @Description: TODO(这里用一句话描述这个类的作用)
+ * @Description: Mybatis Hello world
  * @author 34991
  * @date 2017年2月5日
  *
