@@ -12,7 +12,10 @@ import com.cbm.stu.mybatis.entity.Role;
 import com.cbm.stu.mybatis.mapper.RoleMapper;
 
 /**
- * Hello world!
+ * @ClassName: App
+ * @Description: TODO(这里用一句话描述这个类的作用)
+ * @author byron
+ * @date 2017年2月15日
  *
  */
 public class App 
