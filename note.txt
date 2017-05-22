@@ -1,1 +1,25 @@
 #这是一个说明文件
+
+# mybatis 知识点规划
+1.配置
+	① properties
+	② 别名
+	③ typeHandler
+	④ environments
+2.映射
+	① select
+	② insert
+	③ update delete
+	④ 参数和结果映射
+	⑤ 缓存
+3.动态SQL
+	choose when otherwise
+	trim where set
+	foreach
+	test
+	bind
+4.SqlSessionFactory
+  SqlSession
+5.插件
+6.MyBatis-Spring
+	
